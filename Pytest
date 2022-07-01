@@ -1,0 +1,66 @@
+import Project
+import pytest
+from selenium import webdriver
+
+
+def test_asus():
+   print("Test completed")
+   assert test_asus
+
+def test_acer():
+   print("Test completed")
+   assert test_acer
+
+def test_lenovo():
+   print("Test completed")
+   assert test_lenovo
+
+def test_hp():
+   print("Test completed")
+   assert test_hp
+
+def test_msi():
+   print("Test completed")
+   assert test_msi
+
+def test_samsung():
+   print("Test completed")
+   assert test_samsung
+
+def test_google():
+   print("Test completed")
+   assert test_google
+
+def test_oneplus():
+   print("Test completed")
+   assert test_oneplus
+
+def test_nokia():
+   print("Test completed")
+   assert test_nokia
+
+def test_xiaomi():
+   print("Test completed")
+   assert test_xiaomi
+
+def test_laptop_filter():
+   print("Test completed")
+   assert test_laptop_filter
+
+def test_mobiles_filter():
+   print("Test completed")
+   assert test_mobiles_filter
+
+def test_laptop_lxml():
+   print("Test completed")
+   assert test_laptop_lxml
+
+def test_mobile_lxml():
+   print("Test completed")
+   assert test_mobile_lxml
+
+
+
+
+
+ 
